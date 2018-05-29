@@ -1,4 +1,13 @@
 # Python3 adaptation for scripts from lasttolibre project
+<!-- vim-markdown-toc GFM -->
+* [Instructions](#instructions)
+  * [Script Overview](#script-overview)
+  * [Using lastexport](#using-lastexport)
+    * [Additional options](#additional-options)
+  * [Using libreimport (scrobble import)](#using-libreimport-scrobble-import)
+  * [Using libreimport2 (loved/banned import)](#using-libreimport2-lovedbanned-import)
+
+<!-- vim-markdown-toc -->
 Cloned from here: https://gitlab.com/aucampia/fmthings-lasttolibre/
 
 Original location: https://gitorious.org/fmthings/lasttolibre/blobs/raw/master/lastexport.py (unavailable on the day of writing)
